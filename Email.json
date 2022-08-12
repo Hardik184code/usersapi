@@ -1,5 +1,4 @@
-{
-  "users": [
+ [
     {
       "id": 1,
       "firstname": "Darpan",
@@ -97,4 +96,3 @@
       "message": "Hello Good Morning !!!"
     }
   ]
-}
